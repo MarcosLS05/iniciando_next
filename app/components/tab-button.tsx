@@ -17,7 +17,7 @@ export default function TabButton({
   
     return (
       <button
-        key={} 
+ //       key={} 
         className="inline-block m-2 p-3 text-slate-300 rounded-md hover:bg-slate-900 hover:text-white"
         onClick={handleClick}
       >
